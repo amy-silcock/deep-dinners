@@ -25,7 +25,7 @@
             </question>
             <prompt>
                 <scripture>Micah 6:8 "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God".</scripture>
-                <narrative>Scripture lays out for us what being 'good' looks like. As we replicate God's heart for the world we are to be just, merciful and humble in all ways with all people. </narrative>
+                <narrative>Scripture lays out for us what being 'good' looks like. As we replicate God's heart for the world we are to be just, merciful and humble in all ways with all people.</narrative>
             </prompt>
         </codelist-item>
         <codelist-item>
@@ -50,10 +50,12 @@
         </codelist-item>
         <codelist-item>
             <number>5</number>
-            <question>Why do we teach children to be 'good'?</question>
+            <question>
+                <narrative>Why do we teach children to be 'good'?</narrative>
+            <question>
             <prompt>
-              <scripture>1 Timothy 6:18-19 "Command them to do good, to be rich in good deeds, and to be generous and willing to share. In this way they will lay up treasure for themselves as a firm foundation for the coming age, so that they may take hold of the life that is truly life".</scripture>
-              <narrative>Not only should we teach children, but part of being a discipleship is learning to be good. To follow in the footsteps of Christ, to build God's kingdom and share the love of God with all.</narrative>
+                <scripture>1 Timothy 6:18-19 "Command them to do good, to be rich in good deeds, and to be generous and willing to share. In this way they will lay up treasure for themselves as a firm foundation for the coming age, so that they may take hold of the life that is truly life".</scripture>
+                <narrative>Not only should we teach children, but part of being a discipleship is learning to be good. To follow in the footsteps of Christ, to build God's kingdom and share the love of God with all.</narrative>
             </prompt>
         </codelist-item>
         <codelist-item>
